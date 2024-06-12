@@ -1,0 +1,429 @@
+.helpIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1px;
+}
+.privacyPolicy {
+  text-decoration: underline;
+  left: 1075px;
+  color: inherit;
+  opacity: 0.6;
+}
+.allRightsReserved,
+.privacyPolicy,
+.termsAndConditions {
+  position: absolute;
+  top: 9px;
+  line-height: 31.25px;
+  font-weight: 500;
+}
+.allRightsReserved {
+  left: 70px;
+  white-space: pre-wrap;
+}
+.termsAndConditions {
+  left: 1211px;
+  text-decoration: underline;
+  opacity: 0.6;
+}
+.business {
+  position: absolute;
+  top: 1157px;
+  left: 0;
+  width: 100%;
+  height: 41px;
+  font-size: var(--font-size-base);
+}
+.categories {
+  left: 263px;
+}
+.categories,
+.getInTouch,
+.help,
+.platform1 {
+  position: absolute;
+  top: 0;
+  font-size: var(--font-size-sm);
+  line-height: 32px;
+  font-weight: 600;
+  opacity: 0.4;
+}
+.platform1 {
+  text-decoration: none;
+  left: 0;
+  color: inherit;
+}
+.getInTouch,
+.help {
+  left: 536px;
+}
+.getInTouch {
+  left: 766px;
+}
+.findTalent {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  line-height: 24px;
+}
+.aboutUs {
+  top: 189px;
+  line-height: 24px;
+}
+.aboutUs,
+.findWork,
+.sloganIcon {
+  position: absolute;
+  left: 0;
+}
+.findWork {
+  top: 48px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.sloganIcon {
+  top: 80px;
+  width: 101.5px;
+  height: 1px;
+}
+.categories1 {
+  position: absolute;
+  top: 142px;
+  left: 0;
+  line-height: 24px;
+}
+.dataScience,
+.itNetworking,
+.webMobile {
+  position: absolute;
+  top: 48px;
+  left: 263px;
+  line-height: 24px;
+}
+.itNetworking,
+.webMobile {
+  top: 95px;
+}
+.webMobile {
+  top: 142px;
+}
+.contactUs,
+.faqs,
+.instagram,
+.linkedin,
+.twitter {
+  position: absolute;
+  top: 48px;
+  left: 536px;
+  line-height: 24px;
+}
+.contactUs,
+.instagram,
+.linkedin,
+.twitter {
+  left: 766px;
+}
+.contactUs,
+.linkedin,
+.twitter {
+  top: 95px;
+  left: 536px;
+}
+.linkedin,
+.twitter {
+  left: 766px;
+}
+.twitter {
+  top: 142px;
+}
+.categoriesList {
+  position: absolute;
+  top: 192px;
+  left: 0;
+  width: 100%;
+  height: 213px;
+}
+.connectingTheRight {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-35xl);
+  line-height: 64px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  width: 779px;
+}
+.platform {
+  position: absolute;
+  top: 604px;
+  left: 494px;
+  width: 876px;
+  height: 405px;
+  font-size: var(--font-size-lg);
+}
+.applyIcon,
+.weTakeComplex {
+  position: absolute;
+  left: 70px;
+}
+.applyIcon {
+  top: 622px;
+  width: 120px;
+  height: 29.3px;
+}
+.weTakeComplex {
+  margin: 0;
+  top: 680px;
+  line-height: 22px;
+  color: var(--color-gray-1000);
+  display: inline-block;
+  width: 284px;
+}
+.linksAndRedirects {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+  font-weight: 600;
+  opacity: 0.4;
+}
+.hireNow {
+  position: absolute;
+  top: 36%;
+  left: 31.44%;
+  font-size: var(--font-size-mini-9);
+  line-height: 12.16px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-lavender);
+  text-align: left;
+}
+.component1047,
+.done {
+  position: absolute;
+  left: 0;
+}
+.done {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 20.27px;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+  white-space: nowrap;
+}
+.component1047 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 48px;
+  width: 162.2px;
+  height: 50px;
+}
+.applyNow {
+  position: absolute;
+  top: 36%;
+  left: 27.62%;
+  font-size: var(--font-size-mini-9);
+  line-height: 12.16px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-lavender);
+  text-align: left;
+}
+.applyNowWrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 20.27px;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+  white-space: nowrap;
+}
+.component1048 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 48px;
+  left: 170.2px;
+  width: 162.2px;
+  height: 50px;
+}
+.email {
+  position: absolute;
+  top: 795px;
+  left: 70px;
+  width: 332.3px;
+  height: 98px;
+}
+.component1083Child,
+.social {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.social {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(180deg, #0c0c0c, #202229);
+}
+.component1083Child {
+  height: 39.85%;
+  width: 90.28%;
+  right: 4.86%;
+  bottom: 60.15%;
+  left: 4.86%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.needAJob {
+  margin: 0;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  line-height: 64px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  height: 100%;
+}
+.full,
+.moreIcon,
+.needAJob {
+  position: absolute;
+}
+.full {
+  height: 10.6%;
+  width: 47.43%;
+  top: 11.76%;
+  right: 26.32%;
+  bottom: 77.63%;
+  left: 26.25%;
+  text-align: center;
+  font-size: var(--font-size-35xl);
+}
+.moreIcon {
+  height: 31.5%;
+  width: 10.1%;
+  top: 0;
+  right: 44.84%;
+  bottom: 68.5%;
+  left: 45.07%;
+  border-radius: 29.89px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.enterYour {
+  font-weight: 600;
+}
+.email1,
+.span {
+  font-weight: 500;
+  color: var(--color-cornflowerblue-200);
+}
+.enterYourEmailContainer {
+  position: absolute;
+  top: 0;
+  left: 41.37%;
+  line-height: 100%;
+}
+.findIcon {
+  position: absolute;
+  width: 100%;
+  top: 31.03%;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 0;
+}
+.enterYour1 {
+  font-weight: 600;
+}
+.message {
+  font-weight: 500;
+}
+.enterYourMessageContainer {
+  position: absolute;
+  top: 68.97%;
+  left: 39.45%;
+  line-height: 100%;
+  color: var(--color-cornflowerblue-200);
+}
+.findIcon1 {
+  width: 100%;
+  top: 100%;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 0;
+}
+.data,
+.explore,
+.findIcon1 {
+  position: absolute;
+}
+.explore {
+  height: 49.57%;
+  width: 100%;
+  top: 50.43%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0;
+}
+.data {
+  height: 19.39%;
+  width: 50.69%;
+  top: 25.27%;
+  right: 24.65%;
+  bottom: 55.34%;
+  left: 24.65%;
+  font-size: var(--font-size-base);
+}
+.component1083 {
+  position: absolute;
+  top: 7646px;
+  left: 0;
+  width: 100%;
+  height: 1207px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 750px) {
+  .connectingTheRight,
+  .needAJob {
+    font-size: var(--font-size-24xl);
+    line-height: 51px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .connectingTheRight,
+  .needAJob {
+    font-size: var(--font-size-13xl);
+    line-height: 38px;
+  }
+}

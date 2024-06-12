@@ -1,0 +1,201 @@
+.step1 {
+  font-weight: 600;
+}
+.step1ResumeContainer {
+  position: absolute;
+  top: 37.5%;
+  left: 15.75%;
+  line-height: 17.83px;
+}
+.frameChild {
+  position: absolute;
+  height: calc(100% - 23px);
+  width: 8.98%;
+  top: 11px;
+  right: 87.87%;
+  bottom: 12px;
+  left: 3.15%;
+  border-radius: 43.94px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.step1ResumeScreeningParent {
+  position: absolute;
+  top: 401px;
+  left: 70px;
+  border-radius: var(--br-6xs);
+  border: 1px solid var(--color-whitesmoke-400);
+  box-sizing: border-box;
+  width: 635px;
+  height: 80px;
+  overflow: hidden;
+}
+.step2 {
+  font-weight: 600;
+}
+.step2VideoContainer {
+  position: absolute;
+  top: 23.31%;
+  left: 15.75%;
+  line-height: 17.83px;
+}
+.frameItem {
+  position: absolute;
+  height: 34.97%;
+  width: 8.98%;
+  top: 11.66%;
+  right: 87.87%;
+  bottom: 53.37%;
+  left: 3.15%;
+  border-radius: 43.94px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.candidatesAreAssessed {
+  margin: 0;
+  position: absolute;
+  width: 83.62%;
+  top: 56.44%;
+  left: 3.15%;
+  line-height: 26px;
+  display: inline-block;
+  opacity: 0.8;
+}
+.step2VideoInterviewParent {
+  position: absolute;
+  top: 486px;
+  left: 70px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.07);
+  border-radius: var(--br-6xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke-400);
+  box-sizing: border-box;
+  width: 635px;
+  height: 163px;
+  overflow: hidden;
+}
+.step3 {
+  font-weight: 600;
+}
+.step3TechnicalContainer {
+  position: absolute;
+  top: 37.5%;
+  left: 15.75%;
+  line-height: 17.83px;
+}
+.frameInner {
+  position: absolute;
+  height: calc(100% - 23px);
+  width: 8.98%;
+  top: 11px;
+  right: 87.87%;
+  bottom: 12px;
+  left: 3.15%;
+  border-radius: 43.94px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.step3TechnicalEvaluationParent {
+  position: absolute;
+  top: 653px;
+  left: 70px;
+  border-radius: var(--br-6xs);
+  border: 1px solid var(--color-whitesmoke-400);
+  box-sizing: border-box;
+  width: 635px;
+  height: 80px;
+  overflow: hidden;
+}
+.parent {
+  position: absolute;
+  top: 737px;
+  left: 70px;
+}
+.step5 {
+  font-weight: 600;
+}
+.step5LetsContainer {
+  position: absolute;
+  top: 37.5%;
+  left: 15.75%;
+  line-height: 17.83px;
+}
+.frameIcon {
+  position: absolute;
+  height: calc(100% - 23px);
+  width: 8.98%;
+  top: 11px;
+  right: 87.87%;
+  bottom: 12px;
+  left: 3.15%;
+  border-radius: 43.94px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.step5LetsGetToWorkParent {
+  position: absolute;
+  top: 821px;
+  left: 70px;
+  border-radius: var(--br-6xs);
+  border: 1px solid var(--color-whitesmoke-400);
+  box-sizing: border-box;
+  width: 635px;
+  height: 80px;
+  overflow: hidden;
+}
+.howWeEnsure,
+.withOurComprehensive {
+  margin: 0;
+  position: absolute;
+  left: 70px;
+  display: inline-block;
+}
+.withOurComprehensive {
+  top: 307px;
+  font-size: var(--font-size-3xl);
+  line-height: 32px;
+  color: var(--color-gray-700);
+  width: 646px;
+}
+.howWeEnsure {
+  top: 149px;
+  font-size: var(--font-size-35xl);
+  line-height: 64px;
+  font-weight: 700;
+  font-family: inherit;
+  width: 570px;
+  height: 128px;
+}
+.frameParent {
+  position: absolute;
+  top: 2985px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 993px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-400);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 750px) {
+  .howWeEnsure {
+    font-size: var(--font-size-24xl);
+    line-height: 51px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .withOurComprehensive {
+    font-size: var(--font-size-lg);
+    line-height: 26px;
+  }
+  .howWeEnsure {
+    font-size: var(--font-size-13xl);
+    line-height: 38px;
+  }
+}

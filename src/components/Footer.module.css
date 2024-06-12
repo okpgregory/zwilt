@@ -1,0 +1,117 @@
+.logoIcon {
+  height: 27.4px;
+  width: 112px;
+  position: relative;
+}
+.joinNow,
+.logoWrapper {
+  position: absolute;
+  top: 14px;
+}
+.logoWrapper {
+  left: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.joinNow {
+  left: 21px;
+  font-size: var(--font-size-sm);
+  line-height: 100%;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-400);
+  text-align: left;
+}
+.joinButton,
+.logIn {
+  position: absolute;
+  white-space: nowrap;
+}
+.joinButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-white);
+  top: 9px;
+  left: 1189px;
+  border-radius: var(--br-base);
+  width: 102px;
+  height: 43px;
+  overflow: hidden;
+}
+.joinButton:hover {
+  background-color: var(--color-gainsboro-300);
+}
+.logIn {
+  top: 23px;
+  left: 1130px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.aboutUs,
+.articles,
+.contactUs,
+.findTalent,
+.findWork {
+  position: absolute;
+  top: 0;
+  left: 198px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.aboutUs,
+.contactUs,
+.findTalent,
+.findWork {
+  left: 0;
+  white-space: nowrap;
+}
+.aboutUs,
+.contactUs,
+.findTalent {
+  left: 96px;
+}
+.aboutUs,
+.contactUs {
+  left: 278px;
+}
+.contactUs {
+  left: 366px;
+}
+.footerLinkItems {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.footerLinks {
+  margin: 0;
+  position: absolute;
+  top: 22px;
+  left: 439px;
+  width: 437px;
+  height: 14px;
+}
+.footer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.15);
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue-100);
+  width: 100%;
+  height: 60px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

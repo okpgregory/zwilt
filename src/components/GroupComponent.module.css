@@ -1,0 +1,232 @@
+.faqItems,
+.faqItems1,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.faqItems,
+.faqItems1 {
+  top: 590px;
+  background-color: var(--color-gainsboro-100);
+  width: 230px;
+  height: 112px;
+}
+.faqItems1 {
+  top: 366px;
+  left: 1px;
+  width: 1439px;
+}
+.frequentlyAskedQuestions,
+.iWantTo,
+.iWantTo1 {
+  margin: 0;
+  position: absolute;
+  font-family: inherit;
+}
+.frequentlyAskedQuestions {
+  top: 0;
+  left: 370px;
+  font-size: var(--font-size-35xl);
+  line-height: 54px;
+  font-weight: 700;
+  text-align: center;
+  display: inline-block;
+  width: 700px;
+}
+.iWantTo,
+.iWantTo1 {
+  top: 186px;
+  left: 640px;
+  font-size: inherit;
+  line-height: 24px;
+  font-weight: 400;
+  opacity: 0.8;
+}
+.iWantTo1 {
+  top: 634px;
+}
+.general,
+.general1,
+.howDoesThe,
+.joiningProcess {
+  position: absolute;
+  line-height: 24px;
+  font-weight: 600;
+}
+.howDoesThe {
+  margin: 0;
+  top: 410px;
+  left: 640px;
+  font-size: inherit;
+  font-family: inherit;
+}
+.general,
+.general1,
+.joiningProcess {
+  top: 186px;
+  left: 70px;
+}
+.general1,
+.joiningProcess {
+  top: 634px;
+}
+.joiningProcess {
+  left: 296px;
+}
+.howLongAre,
+.howLongAre1,
+.howLongAre2,
+.howMuchCan,
+.howMuchCan1 {
+  margin: 0;
+  position: absolute;
+  top: 298px;
+  left: 640px;
+  font-size: inherit;
+  line-height: 24px;
+  font-weight: 400;
+  font-family: inherit;
+  opacity: 0.8;
+}
+.howLongAre1,
+.howLongAre2,
+.howMuchCan,
+.howMuchCan1 {
+  top: 746px;
+}
+.howLongAre2,
+.howMuchCan,
+.howMuchCan1 {
+  top: 858px;
+}
+.howMuchCan,
+.howMuchCan1 {
+  top: 522px;
+}
+.howMuchCan1 {
+  top: 970px;
+}
+.faqItemsIcon,
+.faqItemsIcon1 {
+  position: absolute;
+  top: 142px;
+  left: 0;
+  width: 1440px;
+  height: 1px;
+}
+.faqItemsIcon1 {
+  top: 814px;
+  left: 1px;
+}
+.faqItemsIcon2,
+.faqItemsIcon3,
+.faqItemsIcon4 {
+  position: absolute;
+  top: 142px;
+  left: 230px;
+  width: 0;
+  height: 112px;
+  object-fit: contain;
+}
+.faqItemsIcon3,
+.faqItemsIcon4 {
+  top: 590px;
+}
+.faqItemsIcon4 {
+  left: 529px;
+}
+.faqItemsIcon5 {
+  position: absolute;
+  top: 254px;
+  left: 1px;
+  width: 1440px;
+  height: 1px;
+}
+.faqItemsIcon6,
+.faqItemsIcon7,
+.faqItemsIcon8 {
+  position: absolute;
+  top: 926px;
+  left: 2px;
+  width: 1440px;
+  height: 1px;
+}
+.faqItemsIcon7,
+.faqItemsIcon8 {
+  top: 366px;
+  left: 1px;
+}
+.faqItemsIcon8 {
+  top: 1038px;
+  left: 2px;
+}
+.faqItemsIcon10,
+.faqItemsIcon11,
+.faqItemsIcon9,
+.vectorIcon {
+  position: absolute;
+  top: 478px;
+  left: 0;
+  width: 1440px;
+  height: 1px;
+}
+.faqItemsIcon10,
+.faqItemsIcon11,
+.vectorIcon {
+  top: 590px;
+}
+.faqItemsIcon11,
+.vectorIcon {
+  top: 702px;
+}
+.vectorIcon {
+  top: 414px;
+  left: 1324px;
+  width: 26.1px;
+  height: 15.6px;
+}
+.faqContent,
+.vectorParent {
+  position: absolute;
+  top: 134px;
+  left: 0;
+  width: 100%;
+  height: 1038px;
+}
+.vectorParent {
+  top: 6302px;
+  height: 1343.5px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-400);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 750px) {
+  .frequentlyAskedQuestions {
+    font-size: var(--font-size-24xl);
+    line-height: 43px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frequentlyAskedQuestions {
+    font-size: var(--font-size-13xl);
+    line-height: 32px;
+  }
+  .general,
+  .general1,
+  .howDoesThe,
+  .howLongAre,
+  .howLongAre1,
+  .howLongAre2,
+  .howMuchCan,
+  .howMuchCan1,
+  .iWantTo,
+  .iWantTo1,
+  .joiningProcess {
+    font-size: var(--font-size-lg);
+    line-height: 19px;
+  }
+}

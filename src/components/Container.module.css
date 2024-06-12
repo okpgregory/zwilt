@@ -1,0 +1,136 @@
+.categoryBackground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightgoldenrodyellow-100);
+  width: 100%;
+  height: 100%;
+}
+.itDevelopment {
+  position: absolute;
+  top: 22.73%;
+  left: 15.63%;
+  line-height: 23.78px;
+  font-weight: 600;
+}
+.categories,
+.categoriesChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 192px;
+  height: 44px;
+}
+.categoriesChild {
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightgray-100);
+  width: 100%;
+  height: 100%;
+  opacity: 0.15;
+}
+.designAndCreative {
+  position: absolute;
+  top: 22.73%;
+  left: 38.54%;
+  line-height: 23.78px;
+  font-weight: 500;
+  opacity: 0.8;
+}
+.categories1,
+.categoriesParent {
+  position: absolute;
+  top: 0;
+  left: 103px;
+  width: 288px;
+  height: 44px;
+}
+.categoriesParent {
+  top: 15px;
+  left: 265px;
+  width: 391px;
+  text-align: center;
+  color: var(--color-gray-400);
+}
+.pythonDeveloper,
+.pythonDeveloper1 {
+  position: absolute;
+  top: 82px;
+  left: 65px;
+  line-height: 100%;
+}
+.pythonDeveloper1 {
+  top: 184px;
+  left: 380px;
+}
+.pythonDeveloper2,
+.shopifyDeveloper,
+.shopifyDeveloper1 {
+  position: absolute;
+  top: 116px;
+  left: 674px;
+  line-height: 100%;
+}
+.shopifyDeveloper,
+.shopifyDeveloper1 {
+  left: 65px;
+}
+.shopifyDeveloper1 {
+  top: 150px;
+  left: 380px;
+}
+.mernStackDeveloper,
+.shopifyDeveloper2 {
+  position: absolute;
+  top: 82px;
+  left: 674px;
+  line-height: 100%;
+}
+.mernStackDeveloper {
+  top: 150px;
+  left: 65px;
+  font-weight: 500;
+  color: var(--color-gray-400);
+}
+.exploreMore,
+.fullStackDeveloper,
+.fullStackDeveloper1 {
+  position: absolute;
+  top: 184px;
+  left: 65px;
+  line-height: 100%;
+}
+.exploreMore,
+.fullStackDeveloper1 {
+  top: 150px;
+  left: 674px;
+}
+.exploreMore {
+  top: 184px;
+  font-weight: 600;
+  color: var(--color-gray-400);
+}
+.dataScientist,
+.frontEndDeveloper {
+  position: absolute;
+  top: 116px;
+  left: 380px;
+  line-height: 100%;
+}
+.dataScientist {
+  top: 82px;
+}
+.container {
+  position: absolute;
+  top: 560px;
+  left: 190px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-whitesmoke-100);
+  width: 920px;
+  height: 230px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-200);
+  font-family: var(--font-poppins);
+}

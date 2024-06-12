@@ -1,0 +1,457 @@
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 900px;
+  object-fit: cover;
+  mix-blend-mode: overlay;
+}
+.component1063Child,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.component1063Child {
+  width: 33.64%;
+  right: 66.36%;
+  bottom: 0;
+  border-radius: var(--br-11xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.exploreMore {
+  margin: 0;
+  position: absolute;
+  top: 36.49%;
+  left: 39.09%;
+  font-size: inherit;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.component1063 {
+  position: absolute;
+  top: 929px;
+  left: 70px;
+  width: 220px;
+  height: 74px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-400);
+}
+.exploreCreativeIndividuals,
+.findDevAnd,
+.yourOneStopMarketplace {
+  margin: 0;
+  position: absolute;
+  font-family: inherit;
+  color: var(--color-gray-400);
+  display: inline-block;
+}
+.yourOneStopMarketplace {
+  top: 219px;
+  left: 232px;
+  font-size: var(--font-size-35xl);
+  line-height: 64px;
+  font-weight: 700;
+  text-align: center;
+  width: 977px;
+  height: 192px;
+}
+.exploreCreativeIndividuals,
+.findDevAnd {
+  top: 469px;
+  left: 70px;
+  font-size: var(--font-size-5xl);
+  line-height: 34px;
+  font-weight: 500;
+  width: 380px;
+}
+.exploreCreativeIndividuals {
+  top: 713px;
+  white-space: pre-wrap;
+}
+.skills {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  line-height: 32px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 65.63%;
+  width: 17.2%;
+  top: 15.63%;
+  right: 82.8%;
+  bottom: 18.75%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.skillsParent {
+  position: absolute;
+  top: 557px;
+  left: 70px;
+  width: 93px;
+  height: 32px;
+}
+.skills1 {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  line-height: 32px;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 65.63%;
+  width: 17.2%;
+  top: 15.63%;
+  right: 82.8%;
+  bottom: 18.75%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.skillsGroup {
+  position: absolute;
+  top: 801px;
+  left: 70px;
+  width: 93px;
+  height: 32px;
+}
+.subCategories {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  line-height: 32px;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 56.25%;
+  width: 11.11%;
+  top: 21.88%;
+  right: 88.89%;
+  bottom: 21.88%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.subCategoriesParent {
+  position: absolute;
+  top: 557px;
+  left: 260px;
+  width: 162px;
+  height: 32px;
+}
+.subCategories1 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  line-height: 32px;
+}
+.vectorIcon3 {
+  position: absolute;
+  height: 56.25%;
+  width: 11.11%;
+  top: 21.88%;
+  right: 88.89%;
+  bottom: 21.88%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.subCategoriesGroup {
+  position: absolute;
+  top: 801px;
+  left: 260px;
+  width: 162px;
+  height: 32px;
+}
+.profiles {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  line-height: 32px;
+}
+.vectorIcon4 {
+  position: absolute;
+  height: 56.25%;
+  width: 13.56%;
+  top: 21.88%;
+  right: 86.44%;
+  bottom: 21.88%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.profilesParent {
+  position: absolute;
+  top: 597px;
+  left: 70px;
+  width: 118px;
+  height: 32px;
+}
+.profiles1 {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  line-height: 32px;
+}
+.vectorIcon5 {
+  position: absolute;
+  height: 56.25%;
+  width: 13.56%;
+  top: 21.88%;
+  right: 86.44%;
+  bottom: 21.88%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.profilesGroup {
+  position: absolute;
+  top: 841px;
+  left: 70px;
+  width: 118px;
+  height: 32px;
+}
+.span {
+  font-weight: 500;
+}
+.moreToExploreContainer {
+  margin: 0;
+  position: absolute;
+  top: 950px;
+  left: 640px;
+  font-size: var(--font-size-3xl);
+  line-height: 32px;
+  font-family: inherit;
+}
+.startYourJourney,
+.vectorParent {
+  position: absolute;
+  left: 0;
+  width: 100%;
+}
+.vectorParent {
+  top: 1001px;
+  height: 1130px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-900);
+  font-family: var(--font-poppins);
+}
+.startYourJourney {
+  margin: 0;
+  top: 0;
+  font-size: inherit;
+  line-height: 64px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  height: 100%;
+}
+.groupParent,
+.startYourJourneyTodayWrapper {
+  position: absolute;
+  top: 0;
+  left: 341px;
+  width: 618px;
+  height: 64px;
+}
+.groupParent {
+  top: 4122px;
+  left: 70px;
+  width: 1300px;
+  height: 1225.5px;
+  text-align: center;
+  font-size: var(--font-size-35xl);
+  color: var(--color-gray-400);
+  font-family: var(--font-poppins);
+}
+.homepageChild,
+.homepageItem {
+  position: absolute;
+  top: 7582px;
+  left: 0;
+  width: 1440px;
+  height: 64.5px;
+}
+.homepageItem {
+  top: 2921px;
+  object-fit: contain;
+}
+.unionIcon {
+  position: relative;
+  width: 1470.9px;
+  height: 133px;
+}
+.withOurRigorous {
+  margin: 0;
+  position: absolute;
+  top: 352px;
+  left: 359px;
+  line-height: 32px;
+  display: inline-block;
+  width: 582px;
+  opacity: 0.8;
+}
+.lookingFor {
+  font-weight: 600;
+}
+.design,
+.span1 {
+  font-weight: 500;
+  color: var(--color-darkgray-200);
+}
+.lookingForDesignContainer {
+  position: absolute;
+  top: 29px;
+  left: 27px;
+  line-height: 100%;
+}
+.designPromptBackground {
+  height: 100%;
+  width: 12.98%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 87.02%;
+  border-radius: var(--br-mini);
+  max-width: 100%;
+  max-height: 100%;
+}
+.component1040,
+.component1043,
+.designPromptBackground {
+  position: absolute;
+  overflow: hidden;
+}
+.component1040 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1.5px solid var(--color-whitesmoke-400);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.component1043 {
+  top: 446px;
+  left: 365px;
+  width: 570px;
+  height: 74px;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.findingTheRight {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  line-height: 64px;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+.findingTheRightFitHasNeveWrapper {
+  position: absolute;
+  top: 204px;
+  left: 315px;
+  width: 671px;
+  height: 128px;
+  font-size: var(--font-size-35xl);
+}
+.zwiltTba1012Icon {
+  position: absolute;
+  top: 217px;
+  left: 804px;
+  width: 68px;
+  height: 43px;
+  object-fit: contain;
+}
+.zwilt {
+  position: absolute;
+  top: 36px;
+  left: 70px;
+  width: 1300px;
+  height: 790px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-400);
+  font-family: var(--font-poppins);
+}
+.homepageInner {
+  position: absolute;
+  top: 4217px;
+  left: 823px;
+  width: 547px;
+  height: 376px;
+}
+.homepage {
+  width: 100%;
+  height: 8853px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .findingTheRight,
+  .startYourJourney,
+  .yourOneStopMarketplace {
+    font-size: var(--font-size-24xl);
+    line-height: 51px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .exploreMore {
+    font-size: var(--font-size-lg);
+    line-height: 14px;
+  }
+  .yourOneStopMarketplace {
+    font-size: var(--font-size-13xl);
+    line-height: 38px;
+  }
+  .exploreCreativeIndividuals,
+  .findDevAnd {
+    font-size: var(--font-size-lgi);
+    line-height: 27px;
+  }
+  .moreToExploreContainer {
+    font-size: var(--font-size-lg);
+    line-height: 26px;
+  }
+  .startYourJourney {
+    font-size: var(--font-size-13xl);
+    line-height: 38px;
+  }
+  .withOurRigorous {
+    font-size: var(--font-size-lg);
+    line-height: 26px;
+  }
+  .findingTheRight {
+    font-size: var(--font-size-13xl);
+    line-height: 38px;
+  }
+  .homepage {
+    height: auto;
+    min-height: 8853;
+  }
+}

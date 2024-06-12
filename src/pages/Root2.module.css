@@ -1,0 +1,731 @@
+.main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 89px 0 0;
+  box-sizing: border-box;
+  min-width: 441px;
+  max-width: 100%;
+}
+.placeholderContainer {
+  margin: 0;
+  width: 20.4px;
+  height: 20.4px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.activityPlaceholder {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base-3) 0 0;
+}
+.iconShape {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconBackground {
+  position: absolute;
+  height: 29.17%;
+  width: 29.17%;
+  top: 35.54%;
+  right: 35.29%;
+  bottom: 35.29%;
+  left: 35.54%;
+  border-radius: 2.55px;
+  background-color: var(--color-darkslateblue-100);
+  z-index: 1;
+}
+.component2 {
+  width: 40.8px;
+  height: 40.8px;
+  position: relative;
+}
+.activityIcon {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.1px 0 0;
+}
+.activityLabel {
+  text-decoration: none;
+  height: 46.2px;
+  width: 168.3px;
+  position: relative;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.activityBar {
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.04);
+  border-radius: 18.18px 18.18px 18.11px 18.11px;
+  background-color: var(--color-white);
+  border: 0.8px solid var(--color-whitesmoke-300);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-mini) var(--padding-xl)
+    var(--padding-lg);
+  gap: 15.3px;
+}
+.progressBarIcon,
+.progressPlaceholderIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.progressPlaceholderIcon {
+  top: 10px;
+  left: 65px;
+  border-radius: 60.41px;
+  width: 81.1px;
+  height: 81.1px;
+  overflow: hidden;
+  z-index: 1;
+}
+.progressIcon {
+  height: 126.4px;
+  flex: 1;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.progressIconWrapper {
+  width: 147.7px;
+  margin: 0 !important;
+  position: absolute;
+  top: 58.7px;
+  right: -143.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pexelsItaloMelo2379004RemoIcon,
+.pexelsItaloMelo2379004RemoIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-24xl);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.pexelsItaloMelo2379004RemoIcon1 {
+  z-index: 1;
+}
+.pexelsItaloMelo2379004RemoParent {
+  align-self: stretch;
+  height: 49px;
+  position: relative;
+}
+.component10Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 1.85px;
+  background-color: var(--color-white);
+}
+.vectorIcon {
+  position: absolute;
+  height: 45.39%;
+  width: 43.17%;
+  top: 27.31%;
+  right: 29.52%;
+  bottom: 27.31%;
+  left: 27.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.component10 {
+  width: 27.1px;
+  height: 27.1px;
+  position: relative;
+  box-shadow: 0 4.3px 7.39px rgba(0, 0, 0, 0.07);
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.component7Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 1.85px;
+  background-color: var(--color-white);
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 45.39%;
+  width: 45.39%;
+  top: 27.31%;
+  right: 27.31%;
+  bottom: 27.31%;
+  left: 27.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.component7 {
+  width: 27.1px;
+  height: 27.1px;
+  position: relative;
+  box-shadow: 0 4.3px 7.39px rgba(0, 0, 0, 0.07);
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.componentElements {
+  flex-direction: column;
+  gap: 19.8px;
+}
+.componentElements,
+.componentElementsWrapper,
+.frameParent,
+.imageContainerInner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.componentElementsWrapper {
+  flex-direction: row;
+  padding: 0 11px 0 var(--padding-3xs);
+}
+.frameParent,
+.imageContainerInner {
+  flex-direction: column;
+}
+.frameParent {
+  align-self: stretch;
+  gap: 191.1px;
+}
+.imageContainerInner {
+  width: 49px;
+  padding: 19.7px 0 0;
+  box-sizing: border-box;
+}
+.separatorIcon {
+  height: 354.7px;
+  width: 0.6px;
+  position: relative;
+}
+.startTracking {
+  text-decoration: none;
+  width: 112.7px;
+  position: relative;
+  line-height: 27.1px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.statusBackground {
+  position: absolute;
+  height: 29.05%;
+  width: 29.05%;
+  top: 35.47%;
+  right: 35.47%;
+  bottom: 35.47%;
+  left: 35.47%;
+  border-radius: 1.85px;
+  background-color: var(--color-darkslateblue-100);
+  z-index: 1;
+}
+.component21 {
+  width: 29.6px;
+  height: 29.6px;
+  position: relative;
+}
+.statusIcon {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs-7) 0 0;
+}
+.b {
+  height: 42px;
+  width: 121.9px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.buttonRow,
+.trackingStatus {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.trackingStatus {
+  flex-direction: row;
+  gap: 9.8px;
+  font-size: var(--font-size-8xl-5);
+  color: var(--color-darkslateblue-100);
+}
+.buttonRow {
+  flex-direction: column;
+  padding: 0 0 5.4px;
+  gap: 13.4px;
+  color: var(--color-gray-500);
+}
+.trackedLabel,
+.trackedToday {
+  position: relative;
+  font-weight: 500;
+}
+.trackedLabel {
+  white-space: nowrap;
+}
+.tracked {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 3.8px;
+  gap: var(--gap-8xs);
+  font-size: var(--font-size-4xs-6);
+}
+.errorChild {
+  height: 103.5px;
+  width: 206.3px;
+  position: relative;
+  border-radius: 3.08px;
+  background-color: var(--color-whitesmoke-300);
+  display: none;
+}
+.unableToTrack {
+  flex: 1;
+  position: relative;
+  line-height: 13.57px;
+  font-weight: 500;
+  z-index: 1;
+}
+.error {
+  align-self: stretch;
+  border-radius: 3.08px;
+  background-color: var(--color-whitesmoke-300);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.8px var(--padding-7xs) 65.7px var(--padding-4xs);
+  font-size: var(--font-size-5xs-4);
+}
+.addNotes {
+  position: relative;
+  font-size: var(--font-size-4xs-6);
+  line-height: 13.57px;
+  font-weight: 500;
+  font-family: var(--font-cabin);
+  color: var(--color-white);
+  text-align: left;
+}
+.component6 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xs-7) var(--padding-5xl) 6.4px;
+  background-color: var(--color-darkslateblue-100);
+  width: 91.1px;
+  border-radius: 3.08px;
+  overflow: hidden;
+  flex-direction: row;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.component6:hover {
+  background-color: #7880c7;
+}
+.actionsContainer,
+.component6,
+.imageContainer,
+.trackingActions {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.actionsContainer {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-base);
+}
+.imageContainer,
+.trackingActions {
+  flex: 1;
+}
+.trackingActions {
+  flex-direction: column;
+  padding: 17.2px 0 0;
+}
+.imageContainer {
+  border-radius: 0 0 13.17px 13.17px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0 var(--padding-4xs) 0 var(--padding-3xs);
+  gap: 9.6px;
+  z-index: 2;
+}
+.trackerNameChild {
+  align-self: stretch;
+  width: 19.5px;
+  position: relative;
+  max-height: 100%;
+  min-height: 10px;
+}
+.zwilttracker {
+  position: relative;
+  line-height: 8.62px;
+}
+.trackerName {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4.9px;
+}
+.logoShapeIcon {
+  width: 8.8px;
+  height: 0.9px;
+  position: relative;
+}
+.logoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3.1px;
+}
+.logoBackground,
+.trackerLogoChild {
+  height: 8.8px;
+  width: 8.8px;
+  position: relative;
+}
+.logoBackground {
+  border-radius: 0.88px;
+  border: 0.9px solid var(--color-gray-500);
+  box-sizing: border-box;
+}
+.trackerLogoChild {
+  min-height: 9px;
+}
+.trackerLogo {
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 31.2px;
+}
+.footer,
+.progress,
+.trackerLogo {
+  display: flex;
+  flex-direction: row;
+}
+.footer {
+  width: 100%;
+  margin: 0 !important;
+  position: absolute;
+  top: -25.3px;
+  right: 0;
+  left: 0;
+  border-radius: 13.17px 13.17px 0 0;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 8px var(--padding-3xs) 7.6px var(--padding-6xs);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  z-index: 3;
+  font-size: var(--font-size-4xs-6);
+  color: var(--color-gray-500);
+  font-family: var(--font-cabin);
+}
+.progress {
+  width: 295px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.detailContainer,
+.trackingDetails {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.detailContainer {
+  width: 438.7px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 25.3px 0 0;
+  box-sizing: border-box;
+}
+.trackingDetails {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--font-size-xl-9);
+  color: var(--color-gray-600);
+}
+.vectorIcon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.component2Child {
+  position: absolute;
+  height: 29.17%;
+  width: 29.17%;
+  top: 35.54%;
+  right: 35.29%;
+  bottom: 35.29%;
+  left: 35.54%;
+  border-radius: 2.55px;
+  background-color: var(--color-darkslateblue-100);
+  display: none;
+}
+.component22 {
+  position: absolute;
+  top: 22.1px;
+  left: 56.1px;
+  width: 40.8px;
+  height: 40.8px;
+  display: none;
+}
+.overviewPlaceholderIcon {
+  position: absolute;
+  top: 32.3px;
+  left: 18.7px;
+  width: 20.4px;
+  height: 20.4px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.overviewLabel,
+.todaysActivity {
+  position: absolute;
+  top: 28px;
+  left: 37px;
+  line-height: 14px;
+  font-weight: 700;
+  z-index: 1;
+}
+.todaysActivity {
+  top: 47px;
+  font-size: var(--font-size-3xs);
+  line-height: 10px;
+  font-weight: 500;
+  font-family: var(--font-cabin);
+  color: var(--color-slategray);
+}
+.backgroundShape,
+.frameChild,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-2xl);
+}
+.frameChild {
+  left: 2.3px;
+  background-color: var(--color-whitesmoke-500);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.backgroundShape,
+.rectangleParent {
+  left: 0;
+  background-color: var(--color-goldenrod);
+  width: 77.4px;
+  height: 6px;
+  z-index: 1;
+}
+.rectangleParent {
+  top: 32px;
+  left: 77px;
+  background-color: var(--color-whitesmoke-500);
+  width: 180px;
+}
+.activityBar1 {
+  height: 85px;
+  width: 295px;
+  position: relative;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.07);
+  border-radius: 18.18px 18.18px 18.11px 18.11px;
+  background-color: var(--color-white);
+  border: 0.8px solid var(--color-whitesmoke-300);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.navigationPlaceholderIcon,
+.navigationShapeIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.navigationPlaceholderIcon {
+  top: 35px;
+  left: 1px;
+  border-radius: 45.83px;
+  width: 71.9px;
+  height: 71.9px;
+  overflow: hidden;
+  z-index: 1;
+}
+.navigationShapeParent {
+  height: 108.8px;
+  flex: 1;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.secondaryActivity,
+.secondaryActivityInner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.secondaryActivityInner {
+  width: 112.2px;
+  margin: 0 !important;
+  position: absolute;
+  top: -39px;
+  left: -37px;
+  justify-content: flex-start;
+}
+.secondaryActivity {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 81px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  color: var(--color-lightgray-300);
+}
+.activityBarParent,
+.root {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.activityBarParent {
+  width: 505.7px;
+  flex-direction: column;
+  gap: 7px;
+  min-width: 505.7px;
+  max-width: 100%;
+}
+.root {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 15px 30px rgba(191, 181, 255, 0.15);
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-25xl) var(--padding-6xl) var(--padding-25xl)
+    var(--padding-39xl);
+  box-sizing: border-box;
+  gap: 33px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 1050px) {
+  .activityBarParent {
+    flex: 1;
+  }
+  .root {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 975px) {
+  .activityLabel {
+    font-size: var(--font-size-11xl);
+  }
+}
+@media screen and (max-width: 725px) {
+  .main {
+    padding-top: var(--padding-39xl);
+    box-sizing: border-box;
+  }
+  .activityBarParent,
+  .main {
+    min-width: 100%;
+  }
+  .root {
+    gap: var(--gap-base);
+    padding-left: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .activityLabel {
+    font-size: var(--font-size-4xl);
+  }
+  .startTracking {
+    font-size: var(--font-size-mid);
+    line-height: 22px;
+  }
+  .b {
+    font-size: var(--font-size-3xl);
+  }
+  .secondaryActivity {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
